@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.break-words img{
+  margin: 0 0.125rem;
+}
+
+@tailwind utilities;
